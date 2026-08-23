@@ -10,7 +10,7 @@ The TensorBoard dependency is no longer included by default. If you use `tf.summ
 
 In `tensorflow/c/experimental/filesystem/filesystem_interface.h`, removed `TF_TransactionToken` and associated APIs.
 
-### Known Caveats
+### Known Caveats ... .
 
 * <CAVEATS REGARDING THE RELEASE (BUT NOT BREAKING CHANGES).>
 * <ADDING/BUMPING DEPENDENCIES SHOULD GO HERE>
